@@ -1,26 +1,24 @@
-Task 2 – Dart \& OOP
+## Task 2 – Dart & OOP Fundamentals
 
+### Implemented Programs
 
+1. Temperature Converter (Celsius to Fahrenheit)
+2. Even/Odd Checker
+3. Basic Calculator (+, -, *, /)
+4. List Operations (Sum and Largest Number)
 
-This task covers Dart basics and Object-Oriented Programming.
+### OOP Concepts Implemented
 
+- Student class with properties and method
+- BankAccount class with deposit & withdraw logic
+- Inheritance using Animal and Dog classes
 
+### How to Run
 
-Programs
+1. Open https://dartpad.dev
+2. Paste code from basics.dart or oop.dart
+3. Click Run
 
-. Temperature Converter
-
-. Even/Odd Checker
-
-. Calculator
-
-. List operations
-
-. OOP examples using classes and inheritance
-
-
-
-Screenshots of code and output are included.
-
+Screenshots of execution output are included.
 
 
